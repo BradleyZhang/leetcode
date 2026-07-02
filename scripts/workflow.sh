@@ -110,5 +110,3 @@ echo "  git add ${README_FILE}"
 echo "  git commit"
 echo ""
 echo "Done!"
-
-echo "Done!"

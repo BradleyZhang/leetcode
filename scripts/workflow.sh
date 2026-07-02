@@ -93,13 +93,22 @@ echo ""
 
 commit="${commit} \"${WORKING_DIR}/${file}\" \"${SCRIPT_PATH}/../README.md\""
 
-while true; do
-    read -p "Do you wish to commit them (y/n) ? " yn
-    case $yn in
-        [Yy]* ) git_commit "${QUESTION_FRONTEND_ID}. ${QUESTION_TITLE}" "${SRC_FILE}" "${README_FILE}" ; break;;
-        [Nn]* ) exit;;
-        * ) echo "Please answer yes or no.";;
-    esac
-done
+COMMIT_MESSAGE="New Problem Solution - ${QUESTION_FRONTEND_ID}. ${QUESTION_TITLE}"
+
+echo "${COMMIT_MESSAGE}" | pbcopy
+
+echo ""
+echo "Step 7 : Commit message copied to clipboard!"
+echo ""
+echo "Commit message:"
+echo "  ${COMMIT_MESSAGE}"
+echo ""
+echo "Run when you're ready:"
+echo ""
+echo "  git add ${SRC_FILE}"
+echo "  git add ${README_FILE}"
+echo "  git commit"
+echo ""
+echo "Done!"
 
 echo "Done!"

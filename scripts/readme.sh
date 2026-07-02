@@ -48,5 +48,5 @@ query_problem ${URL} ${QUESTION_TITLE_SLUG}
 
 FILE=`echo ${FILE} | sed "s/.*\/algorithms/\.\/algorithms/"`
 
-echo "|${QUESTION_FRONTEND_ID}|[${QUESTION_TITLE}](${URL}) | [C++](${FILE})|${QUESTION_DIFFICULTY}|"
+echo "|${QUESTION_FRONTEND_ID}|[${QUESTION_TITLE}](${URL}) | [GO](${FILE})|${QUESTION_DIFFICULTY}|"
 

@@ -9,6 +9,9 @@ SCRIPT_FILE=`basename $0`
 COLOR_INFO='\033[0;36m'
 COLOR_NONE='\033[0m'
 
+PROBLEM_DIR="./algorithms/golang"
+
+
 source ${SCRIPT_PATH}/lib/query_problem.sh
 
 function usage()
@@ -46,9 +49,11 @@ get_question_slug ${leetcode_url}
 dir_name=`echo ${QUESTION_TITLE_SLUG} | awk -F '-' '{for (i=1; i<=NF; i++) printf("%s", toupper(substr($i,1,1)) substr($i,2)) }'`
 dir_name=`echo ${dir_name:0:1} | tr '[A-Z]' '[a-z]'`${dir_name:1}
 
-mkdir -p ${dir_name}
-echo "Step 1 : Created \"${dir_name}\" directory!"
-cd ${dir_name}
+#mkdir -p ${dir_name}
+mkdir -p "${PROBLEM_DIR}"
+mkdir -p "${PROBLEM_DIR}/${dir_name}"
+echo "Step 1 : Created \"${PROBLEM_DIR}/${dir_name}\" directory!"
+cd "${PROBLEM_DIR}/${dir_name}"
 
 file=`${SCRIPT_PATH}/comments.sh ${leetcode_url} | grep updated | awk '{print $1}'`
 WORKING_DIR=`pwd`

@@ -12,8 +12,8 @@ modified from haoel/leetcode
 
 For example:
 ```
-$ cd leetcode/algorithms/cpp
-$ ../../scripts/workflow.sh https://leetcode.com/problems/design-authentication-manager/
+$ cd leetcode
+$ ./scripts/workflow.sh https://leetcode.com/problems/design-authentication-manager/
 Step 1 : Created "designAuthenticationManager" directory!
 Step 2 : Created "designAuthenticationManager/DesignAuthenticationManager.cpp" source file!
 Step 3 : Run "git add designAuthenticationManager/DesignAuthenticationManager.cpp"!

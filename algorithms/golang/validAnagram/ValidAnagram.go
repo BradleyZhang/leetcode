@@ -29,7 +29,7 @@
 
 package validanagram
 
-// 初见
+// first solution
 func validAnagram(s string, t string) bool {
 	if len(s) != len(t) {
 		return false
@@ -77,7 +77,7 @@ func validAnagramUseOneMap(s string, t string) bool {
 	return true
 }
 
-// 对仅有小写字母，可以用长度26的数组
+// 在仅有小写字母约束下最优解，用长度26的数组/slice
 func validAnagramUseArray(s string, t string) bool {
 	if len(s) != len(t) {
 		return false

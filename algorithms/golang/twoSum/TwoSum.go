@@ -50,3 +50,36 @@ func twoSum(nums []int, target int) []int {
 	}
 	return []int{}
 }
+
+// 其他解法
+// 需要快速知道数组中有没有 target-num[x]
+// 常用pattern：数组中需要快速查找->用 hash map
+
+// 先遍历一遍构造hash map，再遍历一遍用hash map 找 target-num[x]
+func twoSumHashMap(nums []int, target int) []int {
+	vToIndex := make(map[int]int)
+	for i, v := range nums {
+		vToIndex[v] = i
+	}
+	for i, v := range nums {
+		j, ok := vToIndex[target-v]
+		if ok {
+			if i != j {
+				return []int{i, j}
+			}
+		}
+	}
+	return []int{}
+}
+
+// 边遍历边填 hash map，并检索已有的hash map
+func twoSumHashMapOnce(nums []int, target int) []int {
+	vToIndex := make(map[int]int)
+	for i, v := range nums {
+		if j, ok := vToIndex[target-v]; ok {
+			return []int{i, j}
+		}
+		vToIndex[v] = i
+	}
+	return []int{}
+}

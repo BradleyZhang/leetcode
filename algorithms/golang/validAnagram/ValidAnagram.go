@@ -85,7 +85,7 @@ func validAnagramUseArray(s string, t string) bool {
 	counts := make([]int, 26, 26)
 	for i := 0; i < len(s); i++ {
 		counts[int(s[i]-'a')]++
-		counts[int(s[i]-'a')]--
+		counts[int(t[i]-'a')]--
 	}
 	for _, c := range counts {
 		if c != 0 {

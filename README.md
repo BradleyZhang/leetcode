@@ -10,6 +10,7 @@ LeetCode
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | [GO](./algorithms/golang/validSudoku/ValidSudoku.go)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams) | [GO](./algorithms/golang/groupAnagrams/GroupAnagrams.go)|Medium|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [GO](./algorithms/golang/longestConsecutiveSequence/LongestConsecutiveSequence.go)|Medium|
+|169|[Majority Element](https://leetcode.com/problems/majority-element) | [GO](./algorithms/golang/majorityElement/MajorityElement.go)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [GO](./algorithms/golang/containsDuplicate/ContainsDuplicate.go)|Easy|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [GO](./algorithms/golang/productOfArrayExceptSelf/ProductOfArrayExceptSelf.go)|Medium|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [GO](./algorithms/golang/validAnagram/ValidAnagram.go)|Easy|

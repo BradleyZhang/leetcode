@@ -9,6 +9,7 @@ LeetCode
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [GO](./algorithms/golang/twoSum/TwoSum.go)|Easy|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | [GO](./algorithms/golang/validSudoku/ValidSudoku.go)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams) | [GO](./algorithms/golang/groupAnagrams/GroupAnagrams.go)|Medium|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [GO](./algorithms/golang/validPalindrome/ValidPalindrome.go)|Easy|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [GO](./algorithms/golang/longestConsecutiveSequence/LongestConsecutiveSequence.go)|Medium|
 |169|[Majority Element](https://leetcode.com/problems/majority-element) | [GO](./algorithms/golang/majorityElement/MajorityElement.go)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [GO](./algorithms/golang/containsDuplicate/ContainsDuplicate.go)|Easy|

@@ -10,6 +10,7 @@ LeetCode
 |11|*[Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [GO](./algorithms/golang/containerWithMostWater/ContainerWithMostWater.go)|Medium|
 |15|*[3Sum](https://leetcode.com/problems/3sum) | [GO](./algorithms/golang/3sum/3sum.go)|Medium|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | [GO](./algorithms/golang/validSudoku/ValidSudoku.go)|Medium|
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [GO](./algorithms/golang/trappingRainWater/TrappingRainWater.go)|Hard|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams) | [GO](./algorithms/golang/groupAnagrams/GroupAnagrams.go)|Medium|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [GO](./algorithms/golang/validPalindrome/ValidPalindrome.go)|Easy|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [GO](./algorithms/golang/longestConsecutiveSequence/LongestConsecutiveSequence.go)|Medium|

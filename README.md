@@ -7,6 +7,7 @@ LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [GO](./algorithms/golang/twoSum/TwoSum.go)|Easy|
+|11|*[Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [GO](./algorithms/golang/containerWithMostWater/ContainerWithMostWater.go)|Medium|
 |15|*[3Sum](https://leetcode.com/problems/3sum) | [GO](./algorithms/golang/3sum/3sum.go)|Medium|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | [GO](./algorithms/golang/validSudoku/ValidSudoku.go)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams) | [GO](./algorithms/golang/groupAnagrams/GroupAnagrams.go)|Medium|

@@ -23,3 +23,4 @@ LeetCode
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [GO](./algorithms/golang/validAnagram/ValidAnagram.go)|Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes) | [GO](./algorithms/golang/moveZeroes/MoveZeroes.go)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [GO](./algorithms/golang/topKFrequentElements/TopKFrequentElements.go)|Medium|
+|881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people) | [GO](./algorithms/golang/boatsToSavePeople/BoatsToSavePeople.go)|Medium|

@@ -17,6 +17,7 @@ LeetCode
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [GO](./algorithms/golang/trappingRainWater/TrappingRainWater.go)|Hard|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams) | [GO](./algorithms/golang/groupAnagrams/GroupAnagrams.go)|Medium|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors) | [GO](./algorithms/golang/sortColors/SortColors.go)|Medium|
+|84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | [GO](./algorithms/golang/largestRectangleInHistogram/LargestRectangleInHistogram.go)|Hard|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [GO](./algorithms/golang/validPalindrome/ValidPalindrome.go)|Easy|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [GO](./algorithms/golang/longestConsecutiveSequence/LongestConsecutiveSequence.go)|Medium|
 |155|[Min Stack](https://leetcode.com/problems/min-stack) | [GO](./algorithms/golang/minStack/MinStack.go)|Medium|

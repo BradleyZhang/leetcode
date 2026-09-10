@@ -1,6 +1,6 @@
 Helpful Scripts
 ============
-modified from haoel/leetcode
+modified from [haoel/leetcode](https://github.com/haoel/LeetCode)
 - [Helpful Scripts](#helpful-scripts)
   - [workflow.sh](#workflowsh)
   - [comments.sh](#commentssh)
@@ -13,16 +13,22 @@ modified from haoel/leetcode
 For example:
 ```
 $ cd leetcode
-$ ./scripts/workflow.sh https://leetcode.com/problems/design-authentication-manager/
-Step 1 : Created "designAuthenticationManager" directory!
-Step 2 : Created "designAuthenticationManager/DesignAuthenticationManager.cpp" source file!
-Step 3 : Run "git add designAuthenticationManager/DesignAuthenticationManager.cpp"!
-Step 4 : Edited the "designAuthenticationManagerDesignAuthenticationManager.cpp"!
-Step 5 : Copied the readme text to Clipboard!
-Step 6 : Edited the "README.md"!
-Step 7 : You can commit the changes by running the following command line...
+$ ./scripts/workflow.sh https://leetcode.com/problems/car-fleet
+Step 1 : Created "./algorithms/golang/carFleet" directory!
+Step 2 : Created "carFleet/CarFleet.go" source file!
+Step 3 : Updated the "README.md"!
+Step 4 : Commit message copied to clipboard!
 
-            git commit -am "New Problem Solution -\"Design Authentication Manager\""
+Commit message:
+  New Problem Solution - 853. Car Fleet
+
+Run when you're ready:
+
+  git add /Users/zzj/code/LeetCode/algorithms/golang/carFleet/CarFleet.go
+  git add /Users/zzj/code/LeetCode/scripts/../README.md
+  git commit
+
+Done!
 ```
 
 ## comments.sh

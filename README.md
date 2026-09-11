@@ -4,6 +4,8 @@ LeetCode
 
 ### LeetCode Algorithm
 
+Problems solved: **26**
+
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [GO](./algorithms/golang/twoSum/TwoSum.go)|Easy|
@@ -30,4 +32,5 @@ LeetCode
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes) | [GO](./algorithms/golang/moveZeroes/MoveZeroes.go)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [GO](./algorithms/golang/topKFrequentElements/TopKFrequentElements.go)|Medium|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | [GO](./algorithms/golang/dailyTemperatures/DailyTemperatures.go)|Medium|
+|853|[Car Fleet](https://leetcode.com/problems/car-fleet) | [GO](./algorithms/golang/carFleet/CarFleet.go)|Medium|
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people) | [GO](./algorithms/golang/boatsToSavePeople/BoatsToSavePeople.go)|Medium|

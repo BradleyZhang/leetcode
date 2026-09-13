@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **27**
+Problems solved: **28**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -31,6 +31,7 @@ Problems solved: **27**
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [GO](./algorithms/golang/validAnagram/ValidAnagram.go)|Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes) | [GO](./algorithms/golang/moveZeroes/MoveZeroes.go)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [GO](./algorithms/golang/topKFrequentElements/TopKFrequentElements.go)|Medium|
+|402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits) | [GO](./algorithms/golang/removeKDigits/RemoveKDigits.go)|Medium|
 |735|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision) | [GO](./algorithms/golang/asteroidCollision/AsteroidCollision.go)|Medium|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | [GO](./algorithms/golang/dailyTemperatures/DailyTemperatures.go)|Medium|
 |853|[Car Fleet](https://leetcode.com/problems/car-fleet) | [GO](./algorithms/golang/carFleet/CarFleet.go)|Medium|

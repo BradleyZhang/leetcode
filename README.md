@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **30**
+Problems solved: **31**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -15,6 +15,7 @@ Problems solved: **30**
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [GO](./algorithms/golang/validParentheses/ValidParentheses.go)|Easy|
 |22|*[Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [GO](./algorithms/golang/generateParentheses/GenerateParentheses.go)|Medium|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [GO](./algorithms/golang/removeDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.go)|Easy|
+|33|*[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [GO](./algorithms/golang/searchInRotatedSortedArray/SearchInRotatedSortedArray.go)|Medium|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | [GO](./algorithms/golang/validSudoku/ValidSudoku.go)|Medium|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [GO](./algorithms/golang/trappingRainWater/TrappingRainWater.go)|Hard|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams) | [GO](./algorithms/golang/groupAnagrams/GroupAnagrams.go)|Medium|

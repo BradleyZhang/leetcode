@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **31**
+Problems solved: **32**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -24,6 +24,7 @@ Problems solved: **31**
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [GO](./algorithms/golang/validPalindrome/ValidPalindrome.go)|Easy|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [GO](./algorithms/golang/longestConsecutiveSequence/LongestConsecutiveSequence.go)|Medium|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) | [GO](./algorithms/golang/evaluateReversePolishNotation/EvaluateReversePolishNotation.go)|Medium|
+|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | [GO](./algorithms/golang/findMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.go)|Medium|
 |155|[Min Stack](https://leetcode.com/problems/min-stack) | [GO](./algorithms/golang/minStack/MinStack.go)|Medium|
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [GO](./algorithms/golang/twoSumIiInputArrayIsSorted/TwoSumIiInputArrayIsSorted.go)|Medium|
 |169|[Majority Element](https://leetcode.com/problems/majority-element) | [GO](./algorithms/golang/majorityElement/MajorityElement.go)|Easy|

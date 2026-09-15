@@ -4,11 +4,12 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **33**
+Problems solved: **34**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [GO](./algorithms/golang/twoSum/TwoSum.go)|Easy|
+|4|*[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [GO](./algorithms/golang/medianOfTwoSortedArrays/MedianOfTwoSortedArrays.go)|Hard|
 |11|*[Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [GO](./algorithms/golang/containerWithMostWater/ContainerWithMostWater.go)|Medium|
 |15|*[3Sum](https://leetcode.com/problems/3sum) | [GO](./algorithms/golang/3sum/3sum.go)|Medium|
 |18|[4Sum](https://leetcode.com/problems/4sum) | [GO](./algorithms/golang/4sum/4sum.go)|Medium|

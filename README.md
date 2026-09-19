@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **41**
+Problems solved: **42**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -24,6 +24,7 @@ Problems solved: **41**
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams) | [GO](./algorithms/golang/groupAnagrams/GroupAnagrams.go)|Medium|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [GO](./algorithms/golang/searchA2dMatrix/SearchA2dMatrix.go)|Medium|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors) | [GO](./algorithms/golang/sortColors/SortColors.go)|Medium|
+|76|*[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [GO](./algorithms/golang/minimumWindowSubstring/MinimumWindowSubstring.go)|Hard|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | [GO](./algorithms/golang/largestRectangleInHistogram/LargestRectangleInHistogram.go)|Hard|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [GO](./algorithms/golang/bestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.go)|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [GO](./algorithms/golang/validPalindrome/ValidPalindrome.go)|Easy|

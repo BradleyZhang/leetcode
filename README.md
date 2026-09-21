@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **42**
+Problems solved: **43**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -41,6 +41,7 @@ Problems solved: **42**
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes) | [GO](./algorithms/golang/moveZeroes/MoveZeroes.go)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [GO](./algorithms/golang/topKFrequentElements/TopKFrequentElements.go)|Medium|
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits) | [GO](./algorithms/golang/removeKDigits/RemoveKDigits.go)|Medium|
+|424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) | [GO](./algorithms/golang/longestRepeatingCharacterReplacement/LongestRepeatingCharacterReplacement.go)|Medium|
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | [GO](./algorithms/golang/nextGreaterElementI/NextGreaterElementI.go)|Easy|
 |704|[Binary Search](https://leetcode.com/problems/binary-search) | [GO](./algorithms/golang/binarySearch/BinarySearch.go)|Easy|
 |735|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision) | [GO](./algorithms/golang/asteroidCollision/AsteroidCollision.go)|Medium|

@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **43**
+Problems solved: **44**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -37,6 +37,7 @@ Problems solved: **43**
 |169|[Majority Element](https://leetcode.com/problems/majority-element) | [GO](./algorithms/golang/majorityElement/MajorityElement.go)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [GO](./algorithms/golang/containsDuplicate/ContainsDuplicate.go)|Easy|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [GO](./algorithms/golang/productOfArrayExceptSelf/ProductOfArrayExceptSelf.go)|Medium|
+|239|*[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | [GO](./algorithms/golang/slidingWindowMaximum/SlidingWindowMaximum.go)|Hard|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [GO](./algorithms/golang/validAnagram/ValidAnagram.go)|Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes) | [GO](./algorithms/golang/moveZeroes/MoveZeroes.go)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [GO](./algorithms/golang/topKFrequentElements/TopKFrequentElements.go)|Medium|

@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **44**
+Problems solved: **45**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -44,6 +44,7 @@ Problems solved: **44**
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits) | [GO](./algorithms/golang/removeKDigits/RemoveKDigits.go)|Medium|
 |424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) | [GO](./algorithms/golang/longestRepeatingCharacterReplacement/LongestRepeatingCharacterReplacement.go)|Medium|
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | [GO](./algorithms/golang/nextGreaterElementI/NextGreaterElementI.go)|Easy|
+|567|[Permutation in String](https://leetcode.com/problems/permutation-in-string) | [GO](./algorithms/golang/permutationInString/PermutationInString.go)|Medium|
 |704|[Binary Search](https://leetcode.com/problems/binary-search) | [GO](./algorithms/golang/binarySearch/BinarySearch.go)|Easy|
 |735|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision) | [GO](./algorithms/golang/asteroidCollision/AsteroidCollision.go)|Medium|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | [GO](./algorithms/golang/dailyTemperatures/DailyTemperatures.go)|Medium|

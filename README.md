@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **46**
+Problems solved: **47**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -35,6 +35,7 @@ Problems solved: **46**
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element) | [GO](./algorithms/golang/findPeakElement/FindPeakElement.go)|Medium|
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [GO](./algorithms/golang/twoSumIiInputArrayIsSorted/TwoSumIiInputArrayIsSorted.go)|Medium|
 |169|[Majority Element](https://leetcode.com/problems/majority-element) | [GO](./algorithms/golang/majorityElement/MajorityElement.go)|Easy|
+|209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | [GO](./algorithms/golang/minimumSizeSubarraySum/MinimumSizeSubarraySum.go)|Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [GO](./algorithms/golang/containsDuplicate/ContainsDuplicate.go)|Easy|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [GO](./algorithms/golang/productOfArrayExceptSelf/ProductOfArrayExceptSelf.go)|Medium|
 |239|*[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | [GO](./algorithms/golang/slidingWindowMaximum/SlidingWindowMaximum.go)|Hard|

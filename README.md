@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **48**
+Problems solved: **49**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -55,4 +55,5 @@ Problems solved: **48**
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people) | [GO](./algorithms/golang/boatsToSavePeople/BoatsToSavePeople.go)|Medium|
 |904|[Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets) | [GO](./algorithms/golang/fruitIntoBaskets/FruitIntoBaskets.go)|Medium|
 |981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store) | [GO](./algorithms/golang/timeBasedKeyValueStore/TimeBasedKeyValueStore.go)|Medium|
+|1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) | [GO](./algorithms/golang/maxConsecutiveOnesIii/MaxConsecutiveOnesIii.go)|Medium|
 |1011|[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days) | [GO](./algorithms/golang/capacityToShipPackagesWithinDDays/CapacityToShipPackagesWithinDDays.go)|Medium|

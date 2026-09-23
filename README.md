@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **45**
+Problems solved: **46**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -51,5 +51,6 @@ Problems solved: **45**
 |853|[Car Fleet](https://leetcode.com/problems/car-fleet) | [GO](./algorithms/golang/carFleet/CarFleet.go)|Medium|
 |875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas) | [GO](./algorithms/golang/kokoEatingBananas/KokoEatingBananas.go)|Medium|
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people) | [GO](./algorithms/golang/boatsToSavePeople/BoatsToSavePeople.go)|Medium|
+|904|[Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets) | [GO](./algorithms/golang/fruitIntoBaskets/FruitIntoBaskets.go)|Medium|
 |981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store) | [GO](./algorithms/golang/timeBasedKeyValueStore/TimeBasedKeyValueStore.go)|Medium|
 |1011|[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days) | [GO](./algorithms/golang/capacityToShipPackagesWithinDDays/CapacityToShipPackagesWithinDDays.go)|Medium|

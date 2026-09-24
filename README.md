@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **51**
+Problems solved: **52**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -30,6 +30,7 @@ Problems solved: **51**
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [GO](./algorithms/golang/bestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.go)|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [GO](./algorithms/golang/validPalindrome/ValidPalindrome.go)|Easy|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [GO](./algorithms/golang/longestConsecutiveSequence/LongestConsecutiveSequence.go)|Medium|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [GO](./algorithms/golang/linkedListCycle/LinkedListCycle.go)|Easy|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) | [GO](./algorithms/golang/evaluateReversePolishNotation/EvaluateReversePolishNotation.go)|Medium|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | [GO](./algorithms/golang/findMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.go)|Medium|
 |155|[Min Stack](https://leetcode.com/problems/min-stack) | [GO](./algorithms/golang/minStack/MinStack.go)|Medium|

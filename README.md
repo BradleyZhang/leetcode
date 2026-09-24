@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **50**
+Problems solved: **51**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -15,6 +15,7 @@ Problems solved: **50**
 |15|*[3Sum](https://leetcode.com/problems/3sum) | [GO](./algorithms/golang/3sum/3sum.go)|Medium|
 |18|[4Sum](https://leetcode.com/problems/4sum) | [GO](./algorithms/golang/4sum/4sum.go)|Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [GO](./algorithms/golang/validParentheses/ValidParentheses.go)|Easy|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [GO](./algorithms/golang/mergeTwoSortedLists/MergeTwoSortedLists.go)|Easy|
 |22|*[Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [GO](./algorithms/golang/generateParentheses/GenerateParentheses.go)|Medium|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [GO](./algorithms/golang/removeDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.go)|Easy|
 |33|*[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [GO](./algorithms/golang/searchInRotatedSortedArray/SearchInRotatedSortedArray.go)|Medium|

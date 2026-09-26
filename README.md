@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **55**
+Problems solved: **56**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -32,6 +32,7 @@ Problems solved: **55**
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [GO](./algorithms/golang/bestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.go)|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [GO](./algorithms/golang/validPalindrome/ValidPalindrome.go)|Easy|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [GO](./algorithms/golang/longestConsecutiveSequence/LongestConsecutiveSequence.go)|Medium|
+|138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) | [GO](./algorithms/golang/copyListWithRandomPointer/CopyListWithRandomPointer.go)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [GO](./algorithms/golang/linkedListCycle/LinkedListCycle.go)|Easy|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list) | [GO](./algorithms/golang/reorderList/ReorderList.go)|Medium|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) | [GO](./algorithms/golang/evaluateReversePolishNotation/EvaluateReversePolishNotation.go)|Medium|

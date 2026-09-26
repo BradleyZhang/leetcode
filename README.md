@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **53**
+Problems solved: **54**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -17,6 +17,7 @@ Problems solved: **53**
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [GO](./algorithms/golang/validParentheses/ValidParentheses.go)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [GO](./algorithms/golang/mergeTwoSortedLists/MergeTwoSortedLists.go)|Easy|
 |22|*[Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [GO](./algorithms/golang/generateParentheses/GenerateParentheses.go)|Medium|
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [GO](./algorithms/golang/mergeKSortedLists/MergeKSortedLists.go)|Hard|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [GO](./algorithms/golang/removeDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.go)|Easy|
 |33|*[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [GO](./algorithms/golang/searchInRotatedSortedArray/SearchInRotatedSortedArray.go)|Medium|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [GO](./algorithms/golang/findFirstAndLastPositionOfElementInSortedArray/FindFirstAndLastPositionOfElementInSortedArray.go)|Medium|

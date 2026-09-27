@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **57**
+Problems solved: **58**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -36,6 +36,7 @@ Problems solved: **57**
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) | [GO](./algorithms/golang/copyListWithRandomPointer/CopyListWithRandomPointer.go)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [GO](./algorithms/golang/linkedListCycle/LinkedListCycle.go)|Easy|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list) | [GO](./algorithms/golang/reorderList/ReorderList.go)|Medium|
+|146|[LRU Cache](https://leetcode.com/problems/lru-cache) | [GO](./algorithms/golang/lruCache/LruCache.go)|Medium|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) | [GO](./algorithms/golang/evaluateReversePolishNotation/EvaluateReversePolishNotation.go)|Medium|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | [GO](./algorithms/golang/findMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.go)|Medium|
 |155|[Min Stack](https://leetcode.com/problems/min-stack) | [GO](./algorithms/golang/minStack/MinStack.go)|Medium|

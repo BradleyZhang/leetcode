@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **59**
+Problems solved: **60**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -31,6 +31,7 @@ Problems solved: **59**
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors) | [GO](./algorithms/golang/sortColors/SortColors.go)|Medium|
 |76|*[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [GO](./algorithms/golang/minimumWindowSubstring/MinimumWindowSubstring.go)|Hard|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | [GO](./algorithms/golang/largestRectangleInHistogram/LargestRectangleInHistogram.go)|Hard|
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [GO](./algorithms/golang/binaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal.go)|Medium|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [GO](./algorithms/golang/bestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.go)|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [GO](./algorithms/golang/validPalindrome/ValidPalindrome.go)|Easy|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [GO](./algorithms/golang/longestConsecutiveSequence/LongestConsecutiveSequence.go)|Medium|

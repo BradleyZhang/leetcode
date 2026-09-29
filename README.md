@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **62**
+Problems solved: **63**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -34,6 +34,7 @@ Problems solved: **62**
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [GO](./algorithms/golang/binaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal.go)|Medium|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [GO](./algorithms/golang/maximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.go)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [GO](./algorithms/golang/bestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.go)|Easy|
+|124|*[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) | [GO](./algorithms/golang/binaryTreeMaximumPathSum/BinaryTreeMaximumPathSum.go)|Hard|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [GO](./algorithms/golang/validPalindrome/ValidPalindrome.go)|Easy|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [GO](./algorithms/golang/longestConsecutiveSequence/LongestConsecutiveSequence.go)|Medium|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) | [GO](./algorithms/golang/copyListWithRandomPointer/CopyListWithRandomPointer.go)|Medium|

@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **65**
+Problems solved: **66**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -61,6 +61,7 @@ Problems solved: **65**
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits) | [GO](./algorithms/golang/removeKDigits/RemoveKDigits.go)|Medium|
 |424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) | [GO](./algorithms/golang/longestRepeatingCharacterReplacement/LongestRepeatingCharacterReplacement.go)|Medium|
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | [GO](./algorithms/golang/nextGreaterElementI/NextGreaterElementI.go)|Easy|
+|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | [GO](./algorithms/golang/diameterOfBinaryTree/DiameterOfBinaryTree.go)|Easy|
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string) | [GO](./algorithms/golang/permutationInString/PermutationInString.go)|Medium|
 |704|[Binary Search](https://leetcode.com/problems/binary-search) | [GO](./algorithms/golang/binarySearch/BinarySearch.go)|Easy|
 |713|*[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k) | [GO](./algorithms/golang/subarrayProductLessThanK/SubarrayProductLessThanK.go)|Medium|

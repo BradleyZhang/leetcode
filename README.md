@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **64**
+Problems solved: **65**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -50,6 +50,7 @@ Problems solved: **64**
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [GO](./algorithms/golang/reverseLinkedList/ReverseLinkedList.go)|Easy|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | [GO](./algorithms/golang/minimumSizeSubarraySum/MinimumSizeSubarraySum.go)|Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [GO](./algorithms/golang/containsDuplicate/ContainsDuplicate.go)|Easy|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | [GO](./algorithms/golang/invertBinaryTree/InvertBinaryTree.go)|Easy|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | [GO](./algorithms/golang/lowestCommonAncestorOfABinarySearchTree/LowestCommonAncestorOfABinarySearchTree.go)|Medium|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [GO](./algorithms/golang/productOfArrayExceptSelf/ProductOfArrayExceptSelf.go)|Medium|
 |239|*[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | [GO](./algorithms/golang/slidingWindowMaximum/SlidingWindowMaximum.go)|Hard|

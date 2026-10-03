@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **73**
+Problems solved: **74**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -69,6 +69,7 @@ Problems solved: **73**
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | [GO](./algorithms/golang/diameterOfBinaryTree/DiameterOfBinaryTree.go)|Easy|
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string) | [GO](./algorithms/golang/permutationInString/PermutationInString.go)|Medium|
 |621|*[Task Scheduler](https://leetcode.com/problems/task-scheduler) | [GO](./algorithms/golang/taskScheduler/TaskScheduler.go)|Medium|
+|703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream) | [GO](./algorithms/golang/kthLargestElementInAStream/KthLargestElementInAStream.go)|Easy|
 |704|[Binary Search](https://leetcode.com/problems/binary-search) | [GO](./algorithms/golang/binarySearch/BinarySearch.go)|Easy|
 |713|*[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k) | [GO](./algorithms/golang/subarrayProductLessThanK/SubarrayProductLessThanK.go)|Medium|
 |735|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision) | [GO](./algorithms/golang/asteroidCollision/AsteroidCollision.go)|Medium|

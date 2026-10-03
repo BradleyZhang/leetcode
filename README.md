@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **74**
+Problems solved: **75**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -82,3 +82,4 @@ Problems solved: **74**
 |981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store) | [GO](./algorithms/golang/timeBasedKeyValueStore/TimeBasedKeyValueStore.go)|Medium|
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) | [GO](./algorithms/golang/maxConsecutiveOnesIii/MaxConsecutiveOnesIii.go)|Medium|
 |1011|[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days) | [GO](./algorithms/golang/capacityToShipPackagesWithinDDays/CapacityToShipPackagesWithinDDays.go)|Medium|
+|1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | [GO](./algorithms/golang/lastStoneWeight/LastStoneWeight.go)|Easy|

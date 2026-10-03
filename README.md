@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **75**
+Problems solved: **76**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -63,6 +63,7 @@ Problems solved: **75**
 |295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) | [GO](./algorithms/golang/findMedianFromDataStream/FindMedianFromDataStream.go)|Hard|
 |297|*[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) | [GO](./algorithms/golang/serializeAndDeserializeBinaryTree/SerializeAndDeserializeBinaryTree.go)|Hard|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [GO](./algorithms/golang/topKFrequentElements/TopKFrequentElements.go)|Medium|
+|355|[Design Twitter](https://leetcode.com/problems/design-twitter) | [GO](./algorithms/golang/designTwitter/DesignTwitter.go)|Medium|
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits) | [GO](./algorithms/golang/removeKDigits/RemoveKDigits.go)|Medium|
 |424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) | [GO](./algorithms/golang/longestRepeatingCharacterReplacement/LongestRepeatingCharacterReplacement.go)|Medium|
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | [GO](./algorithms/golang/nextGreaterElementI/NextGreaterElementI.go)|Easy|

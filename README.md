@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **76**
+Problems solved: **77**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -75,6 +75,7 @@ Problems solved: **76**
 |713|*[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k) | [GO](./algorithms/golang/subarrayProductLessThanK/SubarrayProductLessThanK.go)|Medium|
 |735|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision) | [GO](./algorithms/golang/asteroidCollision/AsteroidCollision.go)|Medium|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | [GO](./algorithms/golang/dailyTemperatures/DailyTemperatures.go)|Medium|
+|767|[Reorganize String](https://leetcode.com/problems/reorganize-string) | [GO](./algorithms/golang/reorganizeString/ReorganizeString.go)|Medium|
 |853|[Car Fleet](https://leetcode.com/problems/car-fleet) | [GO](./algorithms/golang/carFleet/CarFleet.go)|Medium|
 |875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas) | [GO](./algorithms/golang/kokoEatingBananas/KokoEatingBananas.go)|Medium|
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people) | [GO](./algorithms/golang/boatsToSavePeople/BoatsToSavePeople.go)|Medium|

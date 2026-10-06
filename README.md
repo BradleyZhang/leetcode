@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **79**
+Problems solved: **80**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -25,6 +25,7 @@ Problems solved: **79**
 |33|*[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [GO](./algorithms/golang/searchInRotatedSortedArray/SearchInRotatedSortedArray.go)|Medium|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [GO](./algorithms/golang/findFirstAndLastPositionOfElementInSortedArray/FindFirstAndLastPositionOfElementInSortedArray.go)|Medium|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | [GO](./algorithms/golang/validSudoku/ValidSudoku.go)|Medium|
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum) | [GO](./algorithms/golang/combinationSum/CombinationSum.go)|Medium|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [GO](./algorithms/golang/trappingRainWater/TrappingRainWater.go)|Hard|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams) | [GO](./algorithms/golang/groupAnagrams/GroupAnagrams.go)|Medium|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [GO](./algorithms/golang/searchA2dMatrix/SearchA2dMatrix.go)|Medium|

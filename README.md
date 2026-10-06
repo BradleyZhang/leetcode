@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **77**
+Problems solved: **78**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -66,6 +66,7 @@ Problems solved: **77**
 |355|[Design Twitter](https://leetcode.com/problems/design-twitter) | [GO](./algorithms/golang/designTwitter/DesignTwitter.go)|Medium|
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits) | [GO](./algorithms/golang/removeKDigits/RemoveKDigits.go)|Medium|
 |424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) | [GO](./algorithms/golang/longestRepeatingCharacterReplacement/LongestRepeatingCharacterReplacement.go)|Medium|
+|480|*[Sliding Window Median](https://leetcode.com/problems/sliding-window-median) | [GO](./algorithms/golang/slidingWindowMedian/SlidingWindowMedian.go)|Hard|
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | [GO](./algorithms/golang/nextGreaterElementI/NextGreaterElementI.go)|Easy|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | [GO](./algorithms/golang/diameterOfBinaryTree/DiameterOfBinaryTree.go)|Easy|
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string) | [GO](./algorithms/golang/permutationInString/PermutationInString.go)|Medium|

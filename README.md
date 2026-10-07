@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **80**
+Problems solved: **81**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -27,6 +27,7 @@ Problems solved: **80**
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | [GO](./algorithms/golang/validSudoku/ValidSudoku.go)|Medium|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum) | [GO](./algorithms/golang/combinationSum/CombinationSum.go)|Medium|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [GO](./algorithms/golang/trappingRainWater/TrappingRainWater.go)|Hard|
+|46|[Permutations](https://leetcode.com/problems/permutations) | [GO](./algorithms/golang/permutations/Permutations.go)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams) | [GO](./algorithms/golang/groupAnagrams/GroupAnagrams.go)|Medium|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [GO](./algorithms/golang/searchA2dMatrix/SearchA2dMatrix.go)|Medium|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors) | [GO](./algorithms/golang/sortColors/SortColors.go)|Medium|

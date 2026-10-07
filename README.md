@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **81**
+Problems solved: **82**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -33,6 +33,7 @@ Problems solved: **81**
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors) | [GO](./algorithms/golang/sortColors/SortColors.go)|Medium|
 |76|*[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [GO](./algorithms/golang/minimumWindowSubstring/MinimumWindowSubstring.go)|Hard|
 |78|[Subsets](https://leetcode.com/problems/subsets) | [GO](./algorithms/golang/subsets/Subsets.go)|Medium|
+|79|[Word Search](https://leetcode.com/problems/word-search) | [GO](./algorithms/golang/wordSearch/WordSearch.go)|Medium|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | [GO](./algorithms/golang/largestRectangleInHistogram/LargestRectangleInHistogram.go)|Hard|
 |98|*[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [GO](./algorithms/golang/validateBinarySearchTree/ValidateBinarySearchTree.go)|Medium|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [GO](./algorithms/golang/binaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal.go)|Medium|

@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **86**
+Problems solved: **87**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -14,6 +14,7 @@ Problems solved: **86**
 |4|*[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [GO](./algorithms/golang/medianOfTwoSortedArrays/MedianOfTwoSortedArrays.go)|Hard|
 |11|*[Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [GO](./algorithms/golang/containerWithMostWater/ContainerWithMostWater.go)|Medium|
 |15|*[3Sum](https://leetcode.com/problems/3sum) | [GO](./algorithms/golang/3sum/3sum.go)|Medium|
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [GO](./algorithms/golang/letterCombinationsOfAPhoneNumber/LetterCombinationsOfAPhoneNumber.go)|Medium|
 |18|[4Sum](https://leetcode.com/problems/4sum) | [GO](./algorithms/golang/4sum/4sum.go)|Medium|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [GO](./algorithms/golang/removeNthNodeFromEndOfList/RemoveNthNodeFromEndOfList.go)|Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [GO](./algorithms/golang/validParentheses/ValidParentheses.go)|Easy|

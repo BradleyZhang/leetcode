@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **85**
+Problems solved: **86**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -46,6 +46,7 @@ Problems solved: **85**
 |124|*[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) | [GO](./algorithms/golang/binaryTreeMaximumPathSum/BinaryTreeMaximumPathSum.go)|Hard|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [GO](./algorithms/golang/validPalindrome/ValidPalindrome.go)|Easy|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [GO](./algorithms/golang/longestConsecutiveSequence/LongestConsecutiveSequence.go)|Medium|
+|131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning) | [GO](./algorithms/golang/palindromePartitioning/PalindromePartitioning.go)|Medium|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) | [GO](./algorithms/golang/copyListWithRandomPointer/CopyListWithRandomPointer.go)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [GO](./algorithms/golang/linkedListCycle/LinkedListCycle.go)|Easy|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list) | [GO](./algorithms/golang/reorderList/ReorderList.go)|Medium|

@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **87**
+Problems solved: **88**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -26,6 +26,7 @@ Problems solved: **87**
 |33|*[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [GO](./algorithms/golang/searchInRotatedSortedArray/SearchInRotatedSortedArray.go)|Medium|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [GO](./algorithms/golang/findFirstAndLastPositionOfElementInSortedArray/FindFirstAndLastPositionOfElementInSortedArray.go)|Medium|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | [GO](./algorithms/golang/validSudoku/ValidSudoku.go)|Medium|
+|37|*[Sudoku Solver](https://leetcode.com/problems/sudoku-solver) | [GO](./algorithms/golang/sudokuSolver/SudokuSolver.go)|Hard|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum) | [GO](./algorithms/golang/combinationSum/CombinationSum.go)|Medium|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii) | [GO](./algorithms/golang/combinationSumIi/CombinationSumIi.go)|Medium|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [GO](./algorithms/golang/trappingRainWater/TrappingRainWater.go)|Hard|

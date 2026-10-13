@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **89**
+Problems solved: **90**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -63,6 +63,7 @@ Problems solved: **89**
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [GO](./algorithms/golang/reverseLinkedList/ReverseLinkedList.go)|Easy|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | [GO](./algorithms/golang/implementTriePrefixTree/ImplementTriePrefixTree.go)|Medium|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | [GO](./algorithms/golang/minimumSizeSubarraySum/MinimumSizeSubarraySum.go)|Medium|
+|211|[Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure) | [GO](./algorithms/golang/designAddAndSearchWordsDataStructure/DesignAddAndSearchWordsDataStructure.go)|Medium|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [GO](./algorithms/golang/kthLargestElementInAnArray/KthLargestElementInAnArray.go)|Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [GO](./algorithms/golang/containsDuplicate/ContainsDuplicate.go)|Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | [GO](./algorithms/golang/invertBinaryTree/InvertBinaryTree.go)|Easy|

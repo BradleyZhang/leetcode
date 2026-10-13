@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **88**
+Problems solved: **89**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -61,6 +61,7 @@ Problems solved: **88**
 |169|[Majority Element](https://leetcode.com/problems/majority-element) | [GO](./algorithms/golang/majorityElement/MajorityElement.go)|Easy|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | [GO](./algorithms/golang/binaryTreeRightSideView/BinaryTreeRightSideView.go)|Medium|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [GO](./algorithms/golang/reverseLinkedList/ReverseLinkedList.go)|Easy|
+|208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | [GO](./algorithms/golang/implementTriePrefixTree/ImplementTriePrefixTree.go)|Medium|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | [GO](./algorithms/golang/minimumSizeSubarraySum/MinimumSizeSubarraySum.go)|Medium|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [GO](./algorithms/golang/kthLargestElementInAnArray/KthLargestElementInAnArray.go)|Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [GO](./algorithms/golang/containsDuplicate/ContainsDuplicate.go)|Easy|

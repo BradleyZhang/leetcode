@@ -4,10 +4,11 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **90**
+Problems solved: **91**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|null|[null](https://leetcode.com/problems/Makefile) | [GO](./algorithms/golang/makefile/Makefile.go)|null|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [GO](./algorithms/golang/twoSum/TwoSum.go)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [GO](./algorithms/golang/addTwoNumbers/AddTwoNumbers.go)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [GO](./algorithms/golang/longestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.go)|Medium|
@@ -64,6 +65,7 @@ Problems solved: **90**
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | [GO](./algorithms/golang/implementTriePrefixTree/ImplementTriePrefixTree.go)|Medium|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | [GO](./algorithms/golang/minimumSizeSubarraySum/MinimumSizeSubarraySum.go)|Medium|
 |211|[Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure) | [GO](./algorithms/golang/designAddAndSearchWordsDataStructure/DesignAddAndSearchWordsDataStructure.go)|Medium|
+|212|[Word Search II](https://leetcode.com/problems/word-search-ii) | [GO](./algorithms/golang/wordSearchIi/WordSearchIi.go)|Hard|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [GO](./algorithms/golang/kthLargestElementInAnArray/KthLargestElementInAnArray.go)|Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [GO](./algorithms/golang/containsDuplicate/ContainsDuplicate.go)|Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | [GO](./algorithms/golang/invertBinaryTree/InvertBinaryTree.go)|Easy|

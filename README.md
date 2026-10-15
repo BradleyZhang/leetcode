@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **91**
+Problems solved: **92**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -14,6 +14,7 @@ Problems solved: **91**
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [GO](./algorithms/golang/longestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.go)|Medium|
 |4|*[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [GO](./algorithms/golang/medianOfTwoSortedArrays/MedianOfTwoSortedArrays.go)|Hard|
 |11|*[Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [GO](./algorithms/golang/containerWithMostWater/ContainerWithMostWater.go)|Medium|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [GO](./algorithms/golang/longestCommonPrefix/LongestCommonPrefix.go)|Easy|
 |15|*[3Sum](https://leetcode.com/problems/3sum) | [GO](./algorithms/golang/3sum/3sum.go)|Medium|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [GO](./algorithms/golang/letterCombinationsOfAPhoneNumber/LetterCombinationsOfAPhoneNumber.go)|Medium|
 |18|[4Sum](https://leetcode.com/problems/4sum) | [GO](./algorithms/golang/4sum/4sum.go)|Medium|

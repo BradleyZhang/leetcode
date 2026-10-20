@@ -4,10 +4,11 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **96**
+Problems solved: **97**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|null|[null](https://leetcode.com/problems/Makefile) | [GO](./algorithms/golang/makefile/Makefile.go)|null|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [GO](./algorithms/golang/twoSum/TwoSum.go)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [GO](./algorithms/golang/addTwoNumbers/AddTwoNumbers.go)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [GO](./algorithms/golang/longestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.go)|Medium|
@@ -102,5 +103,6 @@ Problems solved: **96**
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) | [GO](./algorithms/golang/maxConsecutiveOnesIii/MaxConsecutiveOnesIii.go)|Medium|
 |1011|[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days) | [GO](./algorithms/golang/capacityToShipPackagesWithinDDays/CapacityToShipPackagesWithinDDays.go)|Medium|
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | [GO](./algorithms/golang/lastStoneWeight/LastStoneWeight.go)|Easy|
+|1268|[Search Suggestions System](https://leetcode.com/problems/search-suggestions-system) | [GO](./algorithms/golang/searchSuggestionsSystem/SearchSuggestionsSystem.go)|Medium|
 |2416|*[Sum of Prefix Scores of Strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings) | [GO](./algorithms/golang/sumOfPrefixScoresOfStrings/SumOfPrefixScoresOfStrings.go)|Hard|
 |2707|*[Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string) | [GO](./algorithms/golang/extraCharactersInAString/ExtraCharactersInAString.go)|Medium|

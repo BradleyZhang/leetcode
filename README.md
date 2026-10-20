@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **95**
+Problems solved: **96**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -76,6 +76,7 @@ Problems solved: **95**
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes) | [GO](./algorithms/golang/moveZeroes/MoveZeroes.go)|Easy|
 |295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) | [GO](./algorithms/golang/findMedianFromDataStream/FindMedianFromDataStream.go)|Hard|
 |297|*[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) | [GO](./algorithms/golang/serializeAndDeserializeBinaryTree/SerializeAndDeserializeBinaryTree.go)|Hard|
+|336|**[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs) | [GO](./algorithms/golang/palindromePairs/PalindromePairs.go)|Hard|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [GO](./algorithms/golang/topKFrequentElements/TopKFrequentElements.go)|Medium|
 |355|[Design Twitter](https://leetcode.com/problems/design-twitter) | [GO](./algorithms/golang/designTwitter/DesignTwitter.go)|Medium|
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits) | [GO](./algorithms/golang/removeKDigits/RemoveKDigits.go)|Medium|

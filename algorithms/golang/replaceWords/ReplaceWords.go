@@ -86,7 +86,7 @@ func replaceWords(dictionary []string, sentence string) string {
 }
 
 // 使用 Trie
-func replaceWords(dictionary []string, sentence string) string {
+func replaceWordsTrie(dictionary []string, sentence string) string {
 	words := strings.Split(sentence, " ")
 	trie := Trie{}
 	for _, v := range dictionary {

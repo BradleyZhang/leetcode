@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **97**
+Problems solved: **98**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -62,6 +62,7 @@ Problems solved: **97**
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [GO](./algorithms/golang/twoSumIiInputArrayIsSorted/TwoSumIiInputArrayIsSorted.go)|Medium|
 |169|[Majority Element](https://leetcode.com/problems/majority-element) | [GO](./algorithms/golang/majorityElement/MajorityElement.go)|Easy|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | [GO](./algorithms/golang/binaryTreeRightSideView/BinaryTreeRightSideView.go)|Medium|
+|200|[Number of Islands](https://leetcode.com/problems/number-of-islands) | [GO](./algorithms/golang/numberOfIslands/NumberOfIslands.go)|Medium|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [GO](./algorithms/golang/reverseLinkedList/ReverseLinkedList.go)|Easy|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | [GO](./algorithms/golang/implementTriePrefixTree/ImplementTriePrefixTree.go)|Medium|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | [GO](./algorithms/golang/minimumSizeSubarraySum/MinimumSizeSubarraySum.go)|Medium|

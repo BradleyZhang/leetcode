@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **100**
+Problems solved: **101**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -64,6 +64,7 @@ Problems solved: **100**
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | [GO](./algorithms/golang/binaryTreeRightSideView/BinaryTreeRightSideView.go)|Medium|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands) | [GO](./algorithms/golang/numberOfIslands/NumberOfIslands.go)|Medium|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [GO](./algorithms/golang/reverseLinkedList/ReverseLinkedList.go)|Easy|
+|207|[Course Schedule](https://leetcode.com/problems/course-schedule) | [GO](./algorithms/golang/courseSchedule/CourseSchedule.go)|Medium|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | [GO](./algorithms/golang/implementTriePrefixTree/ImplementTriePrefixTree.go)|Medium|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | [GO](./algorithms/golang/minimumSizeSubarraySum/MinimumSizeSubarraySum.go)|Medium|
 |211|[Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure) | [GO](./algorithms/golang/designAddAndSearchWordsDataStructure/DesignAddAndSearchWordsDataStructure.go)|Medium|

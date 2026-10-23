@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **102**
+Problems solved: **103**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -92,6 +92,7 @@ Problems solved: **102**
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string) | [GO](./algorithms/golang/permutationInString/PermutationInString.go)|Medium|
 |621|*[Task Scheduler](https://leetcode.com/problems/task-scheduler) | [GO](./algorithms/golang/taskScheduler/TaskScheduler.go)|Medium|
 |648|[Replace Words](https://leetcode.com/problems/replace-words) | [GO](./algorithms/golang/replaceWords/ReplaceWords.go)|Medium|
+|695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island) | [GO](./algorithms/golang/maxAreaOfIsland/MaxAreaOfIsland.go)|Medium|
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream) | [GO](./algorithms/golang/kthLargestElementInAStream/KthLargestElementInAStream.go)|Easy|
 |704|[Binary Search](https://leetcode.com/problems/binary-search) | [GO](./algorithms/golang/binarySearch/BinarySearch.go)|Easy|
 |713|*[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k) | [GO](./algorithms/golang/subarrayProductLessThanK/SubarrayProductLessThanK.go)|Medium|

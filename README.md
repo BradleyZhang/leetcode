@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **103**
+Problems solved: **104**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -105,6 +105,7 @@ Problems solved: **103**
 |904|[Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets) | [GO](./algorithms/golang/fruitIntoBaskets/FruitIntoBaskets.go)|Medium|
 |973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | [GO](./algorithms/golang/kClosestPointsToOrigin/KClosestPointsToOrigin.go)|Medium|
 |981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store) | [GO](./algorithms/golang/timeBasedKeyValueStore/TimeBasedKeyValueStore.go)|Medium|
+|994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | [GO](./algorithms/golang/rottingOranges/RottingOranges.go)|Medium|
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) | [GO](./algorithms/golang/maxConsecutiveOnesIii/MaxConsecutiveOnesIii.go)|Medium|
 |1011|[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days) | [GO](./algorithms/golang/capacityToShipPackagesWithinDDays/CapacityToShipPackagesWithinDDays.go)|Medium|
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | [GO](./algorithms/golang/lastStoneWeight/LastStoneWeight.go)|Easy|

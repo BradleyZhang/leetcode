@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **107**
+Problems solved: **108**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -37,6 +37,7 @@ Problems solved: **107**
 |46|[Permutations](https://leetcode.com/problems/permutations) | [GO](./algorithms/golang/permutations/Permutations.go)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams) | [GO](./algorithms/golang/groupAnagrams/GroupAnagrams.go)|Medium|
 |51|*[N-Queens](https://leetcode.com/problems/n-queens) | [GO](./algorithms/golang/nQueens/NQueens.go)|Hard|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [GO](./algorithms/golang/climbingStairs/ClimbingStairs.go)|Easy|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [GO](./algorithms/golang/searchA2dMatrix/SearchA2dMatrix.go)|Medium|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors) | [GO](./algorithms/golang/sortColors/SortColors.go)|Medium|
 |76|*[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [GO](./algorithms/golang/minimumWindowSubstring/MinimumWindowSubstring.go)|Hard|

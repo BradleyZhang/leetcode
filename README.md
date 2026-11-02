@@ -4,10 +4,13 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **106**
+Problems solved: **107**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|null|[null](https://leetcode.com/problems/Makefile) | [GO](./algorithms/golang/makefile/Makefile.go)|null|
+||[](https://leetcode.com/problems/Makefile) | [GO](./algorithms/golang/makefile/Makefile.go)||
+|null|[null](https://leetcode.com/problems/Makefile) | [GO](./algorithms/golang/makefile/Makefile.go)|null|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [GO](./algorithms/golang/twoSum/TwoSum.go)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [GO](./algorithms/golang/addTwoNumbers/AddTwoNumbers.go)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [GO](./algorithms/golang/longestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.go)|Medium|
@@ -100,6 +103,7 @@ Problems solved: **106**
 |713|*[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k) | [GO](./algorithms/golang/subarrayProductLessThanK/SubarrayProductLessThanK.go)|Medium|
 |735|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision) | [GO](./algorithms/golang/asteroidCollision/AsteroidCollision.go)|Medium|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | [GO](./algorithms/golang/dailyTemperatures/DailyTemperatures.go)|Medium|
+|743|[Network Delay Time](https://leetcode.com/problems/network-delay-time) | [GO](./algorithms/golang/networkDelayTime/NetworkDelayTime.go)|Medium|
 |767|[Reorganize String](https://leetcode.com/problems/reorganize-string) | [GO](./algorithms/golang/reorganizeString/ReorganizeString.go)|Medium|
 |853|[Car Fleet](https://leetcode.com/problems/car-fleet) | [GO](./algorithms/golang/carFleet/CarFleet.go)|Medium|
 |875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas) | [GO](./algorithms/golang/kokoEatingBananas/KokoEatingBananas.go)|Medium|

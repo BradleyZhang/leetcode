@@ -11,6 +11,7 @@ Problems solved: **109**
 |null|[null](https://leetcode.com/problems/Makefile) | [GO](./algorithms/golang/makefile/Makefile.go)|null|
 ||[](https://leetcode.com/problems/Makefile) | [GO](./algorithms/golang/makefile/Makefile.go)||
 |null|[null](https://leetcode.com/problems/Makefile) | [GO](./algorithms/golang/makefile/Makefile.go)|null|
+|null|[null](https://leetcode.com/problems/Makefile) | [GO](./algorithms/golang/makefile/Makefile.go)|null|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [GO](./algorithms/golang/twoSum/TwoSum.go)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [GO](./algorithms/golang/addTwoNumbers/AddTwoNumbers.go)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [GO](./algorithms/golang/longestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.go)|Medium|
@@ -86,6 +87,7 @@ Problems solved: **109**
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes) | [GO](./algorithms/golang/moveZeroes/MoveZeroes.go)|Easy|
 |295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) | [GO](./algorithms/golang/findMedianFromDataStream/FindMedianFromDataStream.go)|Hard|
 |297|*[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) | [GO](./algorithms/golang/serializeAndDeserializeBinaryTree/SerializeAndDeserializeBinaryTree.go)|Hard|
+|322|[Coin Change](https://leetcode.com/problems/coin-change) | [GO](./algorithms/golang/coinChange/CoinChange.go)|Medium|
 |336|**[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs) | [GO](./algorithms/golang/palindromePairs/PalindromePairs.go)|Hard|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [GO](./algorithms/golang/topKFrequentElements/TopKFrequentElements.go)|Medium|
 |355|[Design Twitter](https://leetcode.com/problems/design-twitter) | [GO](./algorithms/golang/designTwitter/DesignTwitter.go)|Medium|

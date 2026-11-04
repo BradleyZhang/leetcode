@@ -47,6 +47,7 @@ Problems solved: **112**
 |79|[Word Search](https://leetcode.com/problems/word-search) | [GO](./algorithms/golang/wordSearch/WordSearch.go)|Medium|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | [GO](./algorithms/golang/largestRectangleInHistogram/LargestRectangleInHistogram.go)|Hard|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii) | [GO](./algorithms/golang/subsetsIi/SubsetsIi.go)|Medium|
+|91|[Decode Ways](https://leetcode.com/problems/decode-ways) | [GO](./algorithms/golang/decodeWays/DecodeWays.go)|Medium|
 |98|*[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [GO](./algorithms/golang/validateBinarySearchTree/ValidateBinarySearchTree.go)|Medium|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [GO](./algorithms/golang/binaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal.go)|Medium|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [GO](./algorithms/golang/maximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.go)|Easy|

@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **111**
+Problems solved: **112**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -79,6 +79,7 @@ Problems solved: **111**
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii) | [GO](./algorithms/golang/courseScheduleIi/CourseScheduleIi.go)|Medium|
 |211|[Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure) | [GO](./algorithms/golang/designAddAndSearchWordsDataStructure/DesignAddAndSearchWordsDataStructure.go)|Medium|
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii) | [GO](./algorithms/golang/wordSearchIi/WordSearchIi.go)|Hard|
+|*213|[House Robber II](https://leetcode.com/problems/house-robber-ii) | [GO](./algorithms/golang/houseRobberIi/HouseRobberIi.go)|Medium|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [GO](./algorithms/golang/kthLargestElementInAnArray/KthLargestElementInAnArray.go)|Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [GO](./algorithms/golang/containsDuplicate/ContainsDuplicate.go)|Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | [GO](./algorithms/golang/invertBinaryTree/InvertBinaryTree.go)|Easy|

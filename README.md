@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **110**
+Problems solved: **111**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -59,6 +59,7 @@ Problems solved: **110**
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning) | [GO](./algorithms/golang/palindromePartitioning/PalindromePartitioning.go)|Medium|
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph) | [GO](./algorithms/golang/cloneGraph/CloneGraph.go)|Medium|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) | [GO](./algorithms/golang/copyListWithRandomPointer/CopyListWithRandomPointer.go)|Medium|
+|139|[Word Break](https://leetcode.com/problems/word-break) | [GO](./algorithms/golang/wordBreak/WordBreak.go)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [GO](./algorithms/golang/linkedListCycle/LinkedListCycle.go)|Easy|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list) | [GO](./algorithms/golang/reorderList/ReorderList.go)|Medium|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache) | [GO](./algorithms/golang/lruCache/LruCache.go)|Medium|

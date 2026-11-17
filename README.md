@@ -4,19 +4,15 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **112**
+Problems solved: **113**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|null|[null](https://leetcode.com/problems/Makefile) | [GO](./algorithms/golang/makefile/Makefile.go)|null|
-||[](https://leetcode.com/problems/Makefile) | [GO](./algorithms/golang/makefile/Makefile.go)||
-|null|[null](https://leetcode.com/problems/Makefile) | [GO](./algorithms/golang/makefile/Makefile.go)|null|
-|null|[null](https://leetcode.com/problems/Makefile) | [GO](./algorithms/golang/makefile/Makefile.go)|null|
-|null|[null](https://leetcode.com/problems/Makefile) | [GO](./algorithms/golang/makefile/Makefile.go)|null|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [GO](./algorithms/golang/twoSum/TwoSum.go)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [GO](./algorithms/golang/addTwoNumbers/AddTwoNumbers.go)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [GO](./algorithms/golang/longestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.go)|Medium|
 |4|*[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [GO](./algorithms/golang/medianOfTwoSortedArrays/MedianOfTwoSortedArrays.go)|Hard|
+|5|*[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [GO](./algorithms/golang/longestPalindromicSubstring/LongestPalindromicSubstring.go)|Medium|
 |11|*[Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [GO](./algorithms/golang/containerWithMostWater/ContainerWithMostWater.go)|Medium|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [GO](./algorithms/golang/longestCommonPrefix/LongestCommonPrefix.go)|Easy|
 |15|*[3Sum](https://leetcode.com/problems/3sum) | [GO](./algorithms/golang/3sum/3sum.go)|Medium|

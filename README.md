@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **114**
+Problems solved: **115**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -61,6 +61,7 @@ Problems solved: **114**
 |143|[Reorder List](https://leetcode.com/problems/reorder-list) | [GO](./algorithms/golang/reorderList/ReorderList.go)|Medium|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache) | [GO](./algorithms/golang/lruCache/LruCache.go)|Medium|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) | [GO](./algorithms/golang/evaluateReversePolishNotation/EvaluateReversePolishNotation.go)|Medium|
+|152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) | [GO](./algorithms/golang/maximumProductSubarray/MaximumProductSubarray.go)|Medium|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | [GO](./algorithms/golang/findMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.go)|Medium|
 |155|[Min Stack](https://leetcode.com/problems/min-stack) | [GO](./algorithms/golang/minStack/MinStack.go)|Medium|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element) | [GO](./algorithms/golang/findPeakElement/FindPeakElement.go)|Medium|

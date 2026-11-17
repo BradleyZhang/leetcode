@@ -4,7 +4,7 @@ LeetCode
 
 ### LeetCode Algorithm
 
-Problems solved: **113**
+Problems solved: **114**
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -93,6 +93,7 @@ Problems solved: **113**
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [GO](./algorithms/golang/topKFrequentElements/TopKFrequentElements.go)|Medium|
 |355|[Design Twitter](https://leetcode.com/problems/design-twitter) | [GO](./algorithms/golang/designTwitter/DesignTwitter.go)|Medium|
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits) | [GO](./algorithms/golang/removeKDigits/RemoveKDigits.go)|Medium|
+|416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum) | [GO](./algorithms/golang/partitionEqualSubsetSum/PartitionEqualSubsetSum.go)|Medium|
 |417|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [GO](./algorithms/golang/pacificAtlanticWaterFlow/PacificAtlanticWaterFlow.go)|Medium|
 |424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) | [GO](./algorithms/golang/longestRepeatingCharacterReplacement/LongestRepeatingCharacterReplacement.go)|Medium|
 |480|*[Sliding Window Median](https://leetcode.com/problems/sliding-window-median) | [GO](./algorithms/golang/slidingWindowMedian/SlidingWindowMedian.go)|Hard|
